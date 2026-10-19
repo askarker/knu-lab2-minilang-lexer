@@ -1,0 +1,8 @@
+# сгенерированные ANTLR файлы
+MiniLangLexer.py
+*.interp
+*.tokens
+__pycache__/
+.pytest_cache/
+antlr.txt
+hand.txt
